@@ -2,7 +2,7 @@
 Introduction of new dataset for unsupervised fabric defect detection 
 [Description brève du projet]
 
-![Capture d'écran](Samples.png)
+![Capture d'écran](images/Samples.png)
 
 ## Installation
 
