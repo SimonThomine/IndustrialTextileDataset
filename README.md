@@ -1,11 +1,15 @@
+<p align="center">
+  <img width="700" height="250" src="images/ITD_logo.png">
+</p>
 
-# IndustrialTextileDataset
-
+## Description
 Introduction of new dataset for unsupervised fabric defect detection 
 This dataset aims to provide a color dataset with real industrial fabric defect gathered in a visiting machine with several industrial cameras.
 It has been designed with the same nomenclature as MVTEC AD dataset (https://www.mvtec.com/company/research/datasets/mvtec-ad) for unsupervised anomaly detection. 
 
-![Capture d'écran](images/Samples.png)
+<p align="center">
+  <img width="700" height="250" src="images/Samples.png">
+</p>
 
 ## Download 
 
@@ -26,8 +30,9 @@ If you use this dataset, please cite
 ## Utilisation
 This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
 The nomenclature is designed as : 
-
-![Capture d'écran](images/Nomenclature.png )
+<p align="center">
+  <img width="550" height="350" src="images/Nomenclature.png">
+</p>
 
 - category/
   - train/
@@ -47,7 +52,10 @@ As in any unsupervised training, train data are defect-free. Defective samples a
 ## Exemples
 
 Exemple of defect segmentation obtained with our knowledge distillation-based method
-![Exemple d'utilisation 1](images/DefectITDB.png)
+<p align="center">
+  <img width="700" height="250" src="images/DefectITDB.png">
+</p>
+
 
 ## Documentation
 
