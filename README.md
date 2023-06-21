@@ -9,12 +9,25 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
 
 The dataset can be downloaded in google drive with this link : LIEN DRIVE 
 
+## Citation
+If you use this dataset, please cite
+```
+@inproceedings{Thomine_2023_Knowledge,
+    author    = {Thomine, Simon and Snoussi, Hichem},
+    title     = {Distillation-based fabric anomaly detection},
+    booktitle = {Textile Research Journal},
+    month     = {August},
+    year      = {2023}
+}
+```
+
 ## Utilisation
 This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
 The nomenclature is designed as : 
 
-![Capture d'écran](images/Nomenclature.png)
-category/
+![Capture d'écran](images/Nomenclature.png )
+
+- category/
   - train/
     - good/
       - img1.png
@@ -27,7 +40,7 @@ category/
       - img1.png
       - ...
 
-[Expliquez ici comment utiliser votre projet, en donnant des exemples de commandes ou d'actions.]
+As in any unsupervised training, train data are defect-free. Defective samples are only in the test set.
 
 ## Exemples
 
@@ -43,23 +56,13 @@ List of articles related to the subject of textile defect detection
 - MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection (https://arxiv.org/abs/2306.09859)
 - FABLE : Fabric Anomaly Detection Automation Process (https://arxiv.org/abs/2306.10089)
 
-## Contribuer
-
-[Toute information sur la façon dont les gens peuvent contribuer à votre projet.]
-
-1. Forkez le projet
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Faites vos modifications
-4. Validez vos modifications (`git commit -m 'Ajouter une fonctionnalité étonnante'`)
-5. Poussez votre branche (`git push origin feature/AmazingFeature`)
-6. Ouvrez une demande de pull
 
 ## Auteurs
 
-[Liste des auteurs ou contributeurs du projet.]
+- Simon Thomine <sup>1</sup>, PhD student - [@SimonThomine](https://github.com/SimonThomine) - simon.thomine@utt.fr
+- Hichem Snoussi <sup>1</sup>, Full Professor
 
-- John Doe - [@johndoe](https://github.com/johndoe)
-- Jane Smith - [@janesmith](https://github.com/janesmith)
+<sup>1</sup> University of Technology of Troyes, France
 
 ## Licence
 
