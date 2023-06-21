@@ -1,14 +1,30 @@
 # IndustrialTextileDataset
 Introduction of new dataset for unsupervised fabric defect detection 
-[Description brève du projet]
+This dataset aims to provide a color dataset with real industrial fabric defect gathered in a visiting machine with several industrial cameras.
+It has been designed with the same nomenclature as MVTEC AD dataset (https://www.mvtec.com/company/research/datasets/mvtec-ad) for unsupervised anomaly detection. 
 
 ![Capture d'écran](images/Samples.png)
 
-## Installation
+## Download 
 
-[Expliquez ici comment installer votre projet, en incluant toutes les dépendances nécessaires.]
+The dataset can be downloaded in google drive with this link : LIEN DRIVE 
 
 ## Utilisation
+This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
+The nomenclature is designed as : 
+
+category/
+  train/
+    good/
+      img1.png
+      ...
+  test/
+    anomaly/
+      img1.png
+      ...
+    good/
+      img1.png
+      ...
 
 [Expliquez ici comment utiliser votre projet, en donnant des exemples de commandes ou d'actions.]
 
