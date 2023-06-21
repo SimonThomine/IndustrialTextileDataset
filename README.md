@@ -44,10 +44,8 @@ As in any unsupervised training, train data are defect-free. Defective samples a
 
 ## Exemples
 
-[Donnez ici quelques exemples d'utilisation de votre projet, avec des captures d'écran si possible.]
-
-![Exemple d'utilisation 1](screenshots/example1.png)
-![Exemple d'utilisation 2](screenshots/example2.png)
+Exemple of defect segmentation obtained with our knowledge distillation-based method
+![Exemple d'utilisation 1](images/DefectITDB.png)
 
 ## Documentation
 
@@ -66,6 +64,5 @@ List of articles related to the subject of textile defect detection
 
 ## Licence
 
-[Indiquez ici la licence sous laquelle votre projet est distribué.]
 
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
+This project is under the MIT license [MIT](https://opensource.org/licenses/MIT).
