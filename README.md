@@ -21,7 +21,7 @@ Introduction of new dataset for unsupervised fabric defect detection
 
 ## Documentation
 
-[Vous pouvez inclure ici des liens vers des articles, des tutoriels ou toute autre documentation pertinente.]
+List of articles related to the subject of textile defect detection
 
 - MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection (https://arxiv.org/abs/2306.09859)
 - FABLE : Fabric Anomaly Detection Automation Process (https://arxiv.org/abs/2306.10089)
