@@ -13,18 +13,19 @@ The dataset can be downloaded in google drive with this link : LIEN DRIVE
 This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
 The nomenclature is designed as : 
 
+![Capture d'écran](images/Samples.png)
 category/
-  train/
-    good/
-      img1.png
-      ...
-  test/
-    anomaly/
-      img1.png
-      ...
-    good/
-      img1.png
-      ...
+  - train/
+    - good/
+      - img1.png
+      - ...
+  - test/
+    - anomaly/
+      - img1.png
+      - ...
+    - good/
+      - img1.png
+      - ...
 
 [Expliquez ici comment utiliser votre projet, en donnant des exemples de commandes ou d'actions.]
 
