@@ -23,8 +23,8 @@ Introduction of new dataset for unsupervised fabric defect detection
 
 [Vous pouvez inclure ici des liens vers des articles, des tutoriels ou toute autre documentation pertinente.]
 
-- [Article 1](https://www.example.com/article1)
-- [Article 2](https://www.example.com/article2)
+- MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection (https://arxiv.org/abs/2306.09859)
+- FABLE : Fabric Anomaly Detection Automation Process (https://arxiv.org/abs/2306.10089)
 
 ## Contribuer
 
