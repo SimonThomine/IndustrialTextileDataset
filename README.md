@@ -13,16 +13,16 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
 
 | Type        | Total      | Train(Good) | Test(Good) | Test(Defective)  | Sample | 
 | ------|-----|-----| ------|-----|-----|
-| type1cam1  	| 386 	| 272 	| 28 	| 86 	| |
-| type2cam2  	| 257 	| 199 	| 19 	| 39 	| |
-| type3cam1  	| 689 	| 588 	| 54 	| 47 	| |
-| type4cam2  	| 229 	| 199 	| 19 	| 11 	| |
-| type5cam2  	| 298 	| 199 	| 19 	| 80 	| |
-| type6cam2  	| 291 	| 199 	| 19 	| 73 	| |
-| type7cam2  	| 917 	| 711 	| 89 	| 117 	| |
-| type8cam1  	| 868 	| 711 	| 89 	| 68 	| |
-| type9cam2 	| 856 	| 721 	| 86 	| 49 	| |
-| type10cam2 	| 871 	| 717 	| 90 	| 64 	| |
+| type1cam1  	| 386 	| 272 	| 28 	| 86 	| <img src="images/type1cam1.png" alt="" width="150"> |
+| type2cam2  	| 257 	| 199 	| 19 	| 39 	| <img src="images/type2cam2.png" alt="" width="150">|
+| type3cam1  	| 689 	| 588 	| 54 	| 47 	| <img src="images/type3cam1.png" alt="" width="150">|
+| type4cam2  	| 229 	| 199 	| 19 	| 11 	| <img src="images/type4cam2.png" alt="" width="150">|
+| type5cam2  	| 298 	| 199 	| 19 	| 80 	| <img src="images/type5cam2.png" alt="" width="150">|
+| type6cam2  	| 291 	| 199 	| 19 	| 73 	| <img src="images/type6cam2.png" alt="" width="150">|
+| type7cam2  	| 917 	| 711 	| 89 	| 117 	| <img src="images/type7cam2.png" alt="" width="150">|
+| type8cam1  	| 868 	| 711 	| 89 	| 68 	| <img src="images/type8cam1.png" alt="" width="150">|
+| type9cam2 	| 856 	| 721 	| 86 	| 49 	| <img src="images/type9cam2.png" alt="" width="150">|
+| type10cam2 	| 871 	| 717 	| 90 	| 64 	| <img src="images/type10cam2.png" alt="" width="150">|
 
 ## Download 
 
