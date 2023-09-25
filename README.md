@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="250" src="images/ITD_logo.png">
+  <img width="700" height="400" src="images/LogoITD.png">
 </p>
 
 ## Description
