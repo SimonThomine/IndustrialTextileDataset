@@ -28,23 +28,13 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
 
 The dataset can be downloaded in google drive with this link : LIEN DRIVE 
 
-## Citation
-If you use this dataset, please cite
-```
-@inproceedings{Thomine_2023_Knowledge,
-    author    = {Thomine, Simon and Snoussi, Hichem},
-    title     = {Distillation-based fabric anomaly detection},
-    booktitle = {Textile Research Journal},
-    month     = {August},
-    year      = {2023}
-}
-```
+
 
 ## Utilisation
 This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
 The nomenclature is designed as : 
 <p align="center">
-  <img width="550" height="350" src="images/Nomenclature.png">
+  <img width="550" height="350" src="images/Nomenclature2.png">
 </p>
 
 - category/
@@ -84,6 +74,18 @@ List of articles related to the subject of textile defect detection
 - Hichem Snoussi <sup>1</sup>, Full Professor
 
 <sup>1</sup> University of Technology of Troyes, France
+
+## Citation
+If you use this dataset, please cite
+```
+@inproceedings{Thomine_2023_Knowledge,
+    author    = {Thomine, Simon and Snoussi, Hichem},
+    title     = {Distillation-based fabric anomaly detection},
+    booktitle = {Textile Research Journal},
+    month     = {August},
+    year      = {2023}
+}
+```
 
 ## Licence
 
