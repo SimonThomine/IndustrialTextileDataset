@@ -11,6 +11,19 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
   <img width="700" height="250" src="images/Samples.png">
 </p>
 
+| Type        | Total      | Train(Good) | Test(Good) | Test(Defective)  | Sample | 
+| ------|-----|-----| ------|-----|-----|
+| type1cam1  	| 386 	| 272 	| 28 	| 86 	| |
+| type2cam2  	| 257 	| 199 	| 19 	| 39 	| |
+| type3cam1  	| 689 	| 588 	| 54 	| 47 	| |
+| type4cam2  	| 229 	| 199 	| 19 	| 11 	| |
+| type5cam2  	| 298 	| 199 	| 19 	| 80 	| |
+| type6cam2  	| 291 	| 199 	| 19 	| 73 	| |
+| type7cam2  	| 917 	| 711 	| 89 	| 117 	| |
+| type8cam1  	| 868 	| 711 	| 89 	| 68 	| |
+| type9cam2 	| 856 	| 721 	| 86 	| 49 	| |
+| type10cam2 	| 871 	| 717 	| 90 	| 64 	| |
+
 ## Download 
 
 The dataset can be downloaded in google drive with this link : LIEN DRIVE 
