@@ -11,8 +11,10 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
   <img width="700" height="250" src="images/Samples.png">
 </p>
 
+<div align="center"> 
+  
 | Type        | Total      | Train(Good) | Test(Good) | Test(Defective)  | Sample | 
-| ------|-----|-----| ------|-----|-----|
+| :------:|:-----:|:-----:| :------:|:-----:|-----|
 | type1cam1  	| 386 	| 272 	| 28 	| 86 	| <img src="images/type1cam1.png" alt="" width="150"> |
 | type2cam2  	| 257 	| 199 	| 19 	| 39 	| <img src="images/type2cam2.png" alt="" width="150">|
 | type3cam1  	| 689 	| 588 	| 54 	| 47 	| <img src="images/type3cam1.png" alt="" width="150">|
@@ -23,6 +25,8 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
 | type8cam1  	| 868 	| 711 	| 89 	| 68 	| <img src="images/type8cam1.png" alt="" width="150">|
 | type9cam2 	| 856 	| 721 	| 86 	| 49 	| <img src="images/type9cam2.png" alt="" width="150">|
 | type10cam2 	| 871 	| 717 	| 90 	| 64 	| <img src="images/type10cam2.png" alt="" width="150">|
+
+</div>
 
 ## Download 
 
@@ -64,9 +68,9 @@ Exemple of defect segmentation obtained with our knowledge distillation-based me
 
 List of articles related to the subject of textile defect detection
 
-- MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection (https://arxiv.org/abs/2306.09859)
-- FABLE : Fabric Anomaly Detection Automation Process (https://arxiv.org/abs/2306.10089)
-
+- **MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection** (https://arxiv.org/abs/2306.09859)
+- **FABLE : Fabric Anomaly Detection Automation Process** (https://arxiv.org/abs/2306.10089)
+- **Exploring Dual Model Knowledge Distillation for Anomaly Detection** (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4493018)
 
 ## Auteurs
 
