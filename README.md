@@ -71,7 +71,7 @@ List of articles related to the subject of textile defect detection
 - **MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection** (https://arxiv.org/abs/2306.09859)
 - **FABLE : Fabric Anomaly Detection Automation Process** (https://arxiv.org/abs/2306.10089)
 - **Exploring Dual Model Knowledge Distillation for Anomaly Detection** (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4493018)
-
+- **Distillation-based fabric anomaly detection** (https://journals.sagepub.com/doi/abs/10.1177/00405175231206820)(https://arxiv.org/abs/2401.02287)
 ## Auteurs
 
 - Simon Thomine <sup>1</sup>, PhD student - [@SimonThomine](https://github.com/SimonThomine) - simon.thomine@utt.fr
