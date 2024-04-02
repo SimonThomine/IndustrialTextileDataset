@@ -33,7 +33,6 @@ It has been designed with the same nomenclature as MVTEC AD dataset (https://www
 The dataset can be downloaded in google drive with this link : [LINK](https://drive.google.com/drive/folders/1orrMLs0FH4KgEm0vIsneeX3qsvILMh6L?usp=sharing) 
 
 
-
 ## Utilisation
 This dataset is designed for unsupervised anomaly detection task but can also be used for domain-generalization approach.
 The nomenclature is designed as : 
@@ -68,11 +67,11 @@ Exemple of defect segmentation obtained with our knowledge distillation-based me
 
 List of articles related to the subject of textile defect detection
 
-- **MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection** (https://arxiv.org/abs/2306.09859)
+- **MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection** (https://arxiv.org/abs/2306.09859) (https://github.com/SimonThomine/MixedTeacher)
 - **FABLE : Fabric Anomaly Detection Automation Process** (https://arxiv.org/abs/2306.10089)
 - **Exploring Dual Model Knowledge Distillation for Anomaly Detection** (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4493018)
-- **Distillation-based fabric anomaly detection** (https://journals.sagepub.com/doi/abs/10.1177/00405175231206820)(https://arxiv.org/abs/2401.02287) 
-- **CSE: Surface Anomaly Detection with Contrastively Selected Embedding** (https://arxiv.org/pdf/2403.01859.pdf)
+- **Distillation-based fabric anomaly detection** (https://journals.sagepub.com/doi/abs/10.1177/00405175231206820)(https://arxiv.org/abs/2401.02287) (https://github.com/SimonThomine/DBFAD)
+- **CSE: Surface Anomaly Detection with Contrastively Selected Embedding** (https://arxiv.org/pdf/2403.01859.pdf) (https://github.com/SimonThomine/CSE)
 ## Auteurs
 
 - Simon Thomine <sup>1</sup>, PhD student - [@SimonThomine](https://github.com/SimonThomine) - simon.thomine@utt.fr
